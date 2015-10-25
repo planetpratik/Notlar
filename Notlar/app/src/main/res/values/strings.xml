@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notlar</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_new">New</string>
+    <string name="action_calender_view">Calender</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="title_activity_new_note">New Note</string>
+</resources>
