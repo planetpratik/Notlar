@@ -1,5 +1,6 @@
-
-Notlar - An Android App
+<html>
+<body>
+<h1>Notlar - An Android Diary App</h1>
 
 This is the project i've created along with my group during 3rd year of Engineering as Mini Project
 
@@ -10,3 +11,5 @@ This was my first android app.. created while learning "Sunshine - Udacity" app 
 It's incomplete. only few modules work.
 
 Hope that it will help to someone who is new to android programming and want to try something new.
+</body>
+</html>
